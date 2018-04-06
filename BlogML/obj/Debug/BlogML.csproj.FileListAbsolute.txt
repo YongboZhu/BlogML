@@ -1,0 +1,6 @@
+H:\Downloads\BlogML\sourceCode\sourceCode\src\BlogML\bin\Debug\BlogML.dll
+H:\Downloads\BlogML\sourceCode\sourceCode\src\BlogML\bin\Debug\BlogML.pdb
+H:\Downloads\BlogML\sourceCode\sourceCode\src\BlogML\obj\Debug\BlogML.csprojResolveAssemblyReference.cache
+H:\Downloads\BlogML\sourceCode\sourceCode\src\BlogML\obj\Debug\BlogML.csproj.CoreCompileInputs.cache
+H:\Downloads\BlogML\sourceCode\sourceCode\src\BlogML\obj\Debug\BlogML.dll
+H:\Downloads\BlogML\sourceCode\sourceCode\src\BlogML\obj\Debug\BlogML.pdb
